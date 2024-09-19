@@ -3,7 +3,7 @@
         <title>Rezerwacje</title>
         <style>
 			body{
-				font-family: "Copperplate", fantasy;
+				font-family: sans-serif;
 			}
             .fr{
                 text-align: center;
@@ -31,6 +31,7 @@
 			.hdf{
 				font-size: 2.5rem;
 				color: #333333;
+				font-weight: bold;
 			}
 			.odp{
 				text-align: center;
